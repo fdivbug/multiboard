@@ -30,7 +30,8 @@ url: "https://fdivbug.github.io" # the base hostname & protocol for your site, e
 github_username:  fdivbug
 
 # Build settings
-theme: minima
+#theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
